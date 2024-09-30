@@ -4,13 +4,12 @@
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials & Contacts:
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/alessandro___palumbo/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/alessandro-palumbo-ba2a19326)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/AlessandroPalumboDev/AlessandroPalumboDev)
-
----
+[![GMail](https://skillicons.dev/icons?i=gmail)](mailto:alessandropalumbo.dev@gmail.com)
 
 ## 💻 Tech Stack:
 
@@ -60,4 +59,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AlessandroPalumboDev&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![GitHub visit](https://visitcount.itsvg.in/api?id=AlessandroPalumboDev&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![GitHub followers](https://visitcount.itsvg.in/api?id=AlessandroPalumboDev&label=Followers&color=12&icon=1&pretty=true)](https://github.com/AlessandroPalumboDev?tab=followers)
+
+[![GitHub stars](https://visitcount.itsvg.in/api?id=AlessandroPalumboDev&label=Stars&color=12&icon=2&pretty=true)](https://github.com/AlessandroPalumboDev?tab=stars)
