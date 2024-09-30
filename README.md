@@ -60,6 +60,6 @@
 ---
 
 [![GitHub visit](https://visitcount.itsvg.in/api?id=AlessandroPalumboDev&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-[![GitHub followers](https://visitcount.itsvg.in/api?id=AlessandroPalumboDev&label=Followers&color=12&icon=1&pretty=true)](https://github.com/AlessandroPalumboDev?tab=followers)
 
-[![GitHub stars](https://visitcount.itsvg.in/api?id=AlessandroPalumboDev&label=Stars&color=12&icon=2&pretty=true)](https://github.com/AlessandroPalumboDev?tab=stars)
+![GitHub followers](https://img.shields.io/github/followers/AlessandroPalumboDev?label=Followers&logo=github&logoColor=white&style=plastic&color=black&labelColor=black&link=https://github.com/AlessandroPalumboDev/followers)
+![GitHub stars](https://img.shields.io/github/stars/AlessandroPalumboDev?label=Stars&logo=github&logoColor=white&style=plastic&color=black&labelColor=black&link=https://github.com/AlessandroPalumboDev/stars)
