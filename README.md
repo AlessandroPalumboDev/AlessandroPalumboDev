@@ -14,7 +14,7 @@
 
 ## 💻 Tech Stack:
 
-## Front-end technologies
+### Front-end technologies
 
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
@@ -24,7 +24,7 @@
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![SASS](https://skillicons.dev/icons?i=sass)
 
-## Back-end technologies
+### Back-end technologies
 
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Php](https://skillicons.dev/icons?i=php)
@@ -32,7 +32,7 @@
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![NPM](https://skillicons.dev/icons?i=npm)
 
-## Tools
+### Tools
 
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![VsCode](https://skillicons.dev/icons?i=vscode)
@@ -40,7 +40,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=AlessandroPalumboDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlessandroPalumboDev&theme=dark&hide_border=false)<br/>
@@ -54,10 +54,10 @@
 
 ---
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=AlessandroPalumboDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AlessandroPalumboDev&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AlessandroPalumboDev&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
