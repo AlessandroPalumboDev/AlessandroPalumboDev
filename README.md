@@ -8,7 +8,7 @@
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/alessandro___palumbo/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/alessandro-palumbo-ba2a19326)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/AlessandroPalumboDev/AlessandroPalumboDev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/AlessandroPalumboDev)
 [![GMail](https://skillicons.dev/icons?i=gmail)](mailto:alessandropalumbo.dev@gmail.com)
 
 ## 💻 Tech Stack:
