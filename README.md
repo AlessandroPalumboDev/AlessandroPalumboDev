@@ -5,8 +5,8 @@
 ## 🌐 Socials & Contacts:
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/alessandro___palumbo/)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/alessandro-palumbo-ba2a19326)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/AlessandroPalumboDev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/alessandro-palumbo-ba2a19326)
 [![GMail](https://skillicons.dev/icons?i=gmail)](mailto:alessandropalumbo.dev@gmail.com)
 
 ## 💻 Tech Stack:
@@ -37,9 +37,9 @@
 
 ## 📊 GitHub Stats:
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroPalumboDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=AlessandroPalumboDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlessandroPalumboDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroPalumboDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AlessandroPalumboDev&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
 
@@ -51,7 +51,6 @@
 
 ---
 
-[![GitHub visit](https://visitcount.itsvg.in/api?id=AlessandroPalumboDev&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
+[![GitHub visit](https://visitcount.itsvg.in/api?id=AlessandroPalumboDev&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)<br/>
 ![GitHub followers](https://img.shields.io/github/followers/AlessandroPalumboDev?label=Followers&logo=github&logoColor=white&style=plastic&color=black&labelColor=black&link=https://github.com/AlessandroPalumboDev/followers)
 ![GitHub stars](https://img.shields.io/github/stars/AlessandroPalumboDev?label=Stars&logo=github&logoColor=white&style=plastic&color=black&labelColor=black&link=https://github.com/AlessandroPalumboDev/stars)
