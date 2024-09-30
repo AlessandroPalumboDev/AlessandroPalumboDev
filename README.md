@@ -2,8 +2,6 @@
 
 ### I’m Alessandro, a passionate Junior Full Stack Developer with a keen interest in web development. I specialize in creating intuitive and efficient digital solutions, leveraging my technical expertise and an ongoing drive to learn and enhance my skills.
 
----
-
 ## 🌐 Socials & Contacts:
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/alessandro___palumbo/)
@@ -37,21 +35,15 @@
 ![VsCode](https://skillicons.dev/icons?i=vscode)
 ![Git](https://skillicons.dev/icons?i=git)
 
----
-
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=AlessandroPalumboDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlessandroPalumboDev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroPalumboDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=AlessandroPalumboDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 ## 🔝 Top Contributed Repo
 
